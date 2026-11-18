@@ -1,0 +1,14 @@
+{
+  "selection_method": "case-insensitive substring matching against PriceCatcher item names",
+  "item_patterns": [
+    "AYAM BERSIH - STANDARD",
+    "TELUR AYAM",
+    "BERAS",
+    "MINYAK MASAK"
+  ],
+  "notes": [
+    "Patterns are deliberately transparent and editable.",
+    "Review item units before comparing prices.",
+    "Do not combine different product specifications into one price series."
+  ]
+}
